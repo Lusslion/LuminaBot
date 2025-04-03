@@ -20,7 +20,7 @@ LuminaBot es un bot de WhatsApp basado en [Baileys](https://github.com/adiwajshi
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/LuminaBot.git
+   git clone https://github.com/Lusslion/LuminaBot.git
    cd LuminaBot
    ```
 
@@ -52,7 +52,7 @@ PORT=3000
 # Configuración del bot
 BOT_NAME=MiBot
 BOT_PREFIX=!
-ADMIN_NUMBER=51943726709
+ADMIN_NUMBER=NUMBER-EXAMPLE
 
 # Opciones adicionales
 LOG_LEVEL=info
@@ -86,10 +86,9 @@ Los logs se muestran en la consola y son configurables mediante la variable `LOG
 ├── 📄 .env.example           # Ejemplo de configuración
 ```
 
-
 ## Contribuciones
 
-¡Las contribuciones son bienvenidas! Si deseas agregar nuevas funcionalidades o corregir errores, por favor abre un [issue](https://github.com/Lusslion/LuminaBot) o envía un pull request.
+¡Las contribuciones son bienvenidas! Si deseas agregar nuevas funcionalidades o corregir errores, por favor abre un [issue](https://github.com/Lusslion/LuminaBot/issues) o envía un pull request.
 
 ## Licencia
 
