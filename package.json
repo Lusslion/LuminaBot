@@ -1,0 +1,34 @@
+{
+    "name": "lumina-bot",
+    "version": "1.0.0",
+    "description": "Un bot de WhatsApp basado en Baileys",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "dev": "nodemon index.js",
+      "test": "jest"
+    },
+    "keywords": [
+      "whatsapp",
+      "bot",
+      "baileys",
+      "nodejs"
+    ],
+    "author": "Lusslion",
+    "license": "MIT",
+    "dependencies": {
+      "@whiskeysockets/baileys": "^6.17.16",
+      "chalk": "^4.1.2",
+      "dotenv": "^16.4.4",
+      "express": "^5.1.0",
+      "figlet": "^1.8.0",
+      "gradient-string": "^3.0.0",
+      "moment": "^2.30.1",
+      "pino": "^9.5.0",
+      "qrcode-terminal": "^0.12.0"
+    },
+    "devDependencies": {
+      "jest": "^29.6.4",
+      "nodemon": "^3.1.9"
+    }
+  }
